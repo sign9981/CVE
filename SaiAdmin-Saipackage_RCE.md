@@ -13,7 +13,7 @@
 | CVSS v3.1 | 9.8 (AV:N/AC:L/PR:H/UI:N/S:C/C:H/I:H/A:H) |
 | Prerequisites | Admin JWT token required |
 | Report Date | 2026-06-23 |
-| Reported By | Li Xiaohui (李晓晖) |
+| Reported By | Xiaobu |
 
 ---
 
